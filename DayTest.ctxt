@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=DayTest
+comment0.text=\n\ The\ test\ class\ DayTest.\n\n\ @author\ \ Daan\ Lockhorst\n\ @version\ 12.06.2018\n
+comment1.params=
+comment1.target=void\ testFindSpaceWithFirstSlotFilled()
+comment1.text=\n\ This\ method\ testst\ if\ the\ findSpace\ returns\ when\ there\ is\ one\n\ appointment\ made\ at\ nine.\n\ \n
+comment2.params=
+comment2.target=void\ testFindSpaceWithAllSlotsFilled()
+comment2.text=\n\ This\ method\ testst\ if\ the\ findSpace\ returns\ -1\ when\ the\ whole\ \n\ day\ is\ booked\ full\n\ \n
+comment3.params=
+comment3.target=void\ testThatBreaks()
+numComments=4
